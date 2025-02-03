@@ -1,16 +1,15 @@
-import Page1 from "./components/Page1.jsx";
-import Page2 from "./components/Page2.jsx";
-
+import SimpleBorder from "./components/SimpleBorder.jsx";
+import GradientBorder from "./components/GradientBorder.jsx";
+import AnimatedGradientBorder from "./components/AnimatedGradientBorder.jsx";
+import SpinningGradientBorder from "./components/SpinningGradientBorder.jsx";
 
 export default function App() {
-    return (
-        <>
-            <Page1 />
-            <Page2 />
-
-
-        </>
-    )
+  return (
+    <>
+      <SimpleBorder />
+      <GradientBorder />
+      <AnimatedGradientBorder />
+      <SpinningGradientBorder />
+    </>
+  );
 }
-
-
