@@ -11,7 +11,7 @@ const AnimatedGradientBorder = () => {
         {/* Button with Animated Border */}
         <div className="relative p-[2px]">
           <div
-            className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500"
+            className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500 "
             style={{
               backgroundSize: "200% 200%",
               animation: "gradientRotate 3s linear infinite",

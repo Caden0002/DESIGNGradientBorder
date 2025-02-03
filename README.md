@@ -1,8 +1,19 @@
-# React + Vite
+![](https://github.com/Caden0002/DESIGNMeshGradient/blob/main/GradientBorder.gif)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### How to Install and Run the Project
 
-Currently, two official plugins are available:
+1. Open Terminal at the project's CD<br />
+2. rm -rf node_modules && rm package-lock.json && npm install<br />
+3. npm run dev<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# DESIGNGradientBorder
+
+This project shows how to create and animate gradient borders with Tailwind CSS <br />
+
+Learn more about mesh gradients here:<br />
+https://medium.com/@caden0002/animating-gradient-border-in-tailwind-css-e79d4307a552
+
+## Tech Stack
+
+React<br />
+Tailwind<br />
