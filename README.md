@@ -1,4 +1,4 @@
-![](https://github.com/Caden0002/DESIGNMeshGradient/blob/main/GradientButton.gif)
+![](https://github.com/Caden0002/DESIGNGradientBorder/blob/main/GradientButton.gif)
 
 #### How to Install and Run the Project
 
